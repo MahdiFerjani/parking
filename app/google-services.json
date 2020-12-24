@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "574552151049",
+    "firebase_url": "https://parking-34b09.firebaseio.com",
+    "project_id": "parking-34b09",
+    "storage_bucket": "parking-34b09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574552151049:android:d436e0c13da79e71d154d8",
+        "android_client_info": {
+          "package_name": "com.example.revenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574552151049-tgj7hqr40gibuajm2pm39cbkr73ug6p0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.revenger",
+            "certificate_hash": "0a25ecae99087fd9bf50ba9e2a6fe5cf9993c210"
+          }
+        },
+        {
+          "client_id": "574552151049-otso9lo6m0edjf42bulqhd36c65e93i0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyLYxeks3FDwu9TVJueN6Ctx8EwIGtd-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574552151049-otso9lo6m0edjf42bulqhd36c65e93i0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
